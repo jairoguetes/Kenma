@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import '../Styles/Carousel.css';
 
-// Importar imágenes
+
 import member1 from '../assets/fotos/alexDiome.jpeg';
 import member2 from '../assets/fotos/JuanDio.jpeg';
 import member3 from '../assets/fotos/Gabriel.jpeg';
@@ -10,7 +10,7 @@ import member5 from '../assets/fotos/LiduDiome.jpeg';
 import member6 from '../assets/fotos/Daniel.jpeg';
 import member7 from '../assets/fotos/MauricioDiomedes.jpeg';
 
-// Importar videos - Asegúrate de que estos archivos existen
+
 import video1 from '../assets/videos/Alex.mp4';
 import video2 from '../assets/Juan.mp4';
 import video3 from '../assets/videos/Gabriel.mp4';
