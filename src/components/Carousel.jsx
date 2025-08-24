@@ -12,7 +12,7 @@ import member7 from '../assets/fotos/MauricioDiomedes.jpeg';
 
 
 import video1 from '../assets/videos/Alex.mp4';
-import video2 from '../assets/Juan.mp4';
+import video2 from '../assets/videos/Juan.mp4';
 import video3 from '../assets/videos/Gabriel.mp4';
 import video4 from '../assets/videos/Guetes.mp4';
 import video5 from '../assets/videos/Abuela.mp4';
