@@ -3,7 +3,7 @@ import '../Styles/Carousel.css';
 
 
 import member1 from '../assets/fotos/alexDiome.jpeg';
-import member2 from '../assets/fotos/JuanDio.jpeg';
+import member2 from '../assets/fotos/juanDio.jpeg';
 import member3 from '../assets/fotos/Gabriel.jpeg';
 import member4 from '../assets/fotos/JairoDiomedes.jpg';
 import member5 from '../assets/fotos/LiduDiome.jpeg';
